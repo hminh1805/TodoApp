@@ -67,7 +67,7 @@ function seeEvent() {
 
         seeEventBox.innerHTML += `
   <div class="email_btn" data-index="${cnt}" style="
-    height: 100px;
+    height: 50px;
     background-color: ${color};
     margin-bottom: 10px;
     padding: 7px;
@@ -76,8 +76,8 @@ function seeEvent() {
     flex-direction: row;
     justify-content: space-between">
     <div style="display: flex; flex-direction: column; color: white; justify-content: center; align-items: start;">
-  <h3 style="font-size:20px; text-align : ">Name: ${element.name}</h3>
-  <h3>Date : ${deadlineStr}</h3>
+  <h3 style="font-size:20px">Name: ${element.name}</h3>
+  <span style="font-size:15px">Date : ${deadlineStr}</span>
     </div>
   
   </div>`;
