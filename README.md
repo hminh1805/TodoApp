@@ -38,7 +38,7 @@ A robust, full-stack task management web application designed and built from scr
 npm install
 ```
 
-3. **Environment Variables:*
+3. **Environment Variables:**
 Create a .env file in the root directory and configure the following credentials:
 ```bash
 PORT=3000
