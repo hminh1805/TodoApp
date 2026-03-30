@@ -30,8 +30,8 @@ A robust, full-stack task management web application designed and built from scr
 
 1. **Clone the repository:**
 ```bash
-   git clone https://github.com/hminh1805/todoapp.git
-   cd todoapp
+git clone https://github.com/hminh1805/todoapp.git
+cd todoapp
 ```
 2. **Install dependencies:**
 ```bash
